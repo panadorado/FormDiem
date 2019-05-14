@@ -1,0 +1,11 @@
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.csprojAssemblyReference.cache
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.frmMonHoc.resources
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.Properties.Resources.resources
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.csproj.GenerateResource.cache
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.csproj.CoreCompileInputs.cache
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\bin\Debug\CSDL_DT.exe.config
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\bin\Debug\CSDL_DT.exe
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\bin\Debug\CSDL_DT.pdb
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.exe
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.pdb
+C:\Users\PC49\source\repos\CSDL_DT\CSDL_DT\obj\Debug\CSDL_DT.frmDiem.resources
